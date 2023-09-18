@@ -1,4 +1,3 @@
-# Ocado internship recruitment task
 
 Program allows to schedule picking tasks for ISF workers so that most tasks will be done.
 
